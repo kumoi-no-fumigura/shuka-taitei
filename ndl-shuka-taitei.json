@@ -171,6 +171,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 13,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "ndl-shuka-taitei",
   "work": "秀歌大体",
@@ -183,7 +187,7 @@
   "blocks": 13,
   "chars": 3128,
   "poems": 0,
-  "yaku": 0,
+  "yaku": 13,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T14:14:42+09:00"
